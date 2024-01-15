@@ -1,0 +1,1 @@
+draw_text(0,0, object_get_name(object_index));
